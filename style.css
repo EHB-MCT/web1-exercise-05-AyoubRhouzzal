@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    width: 920px;
+    height: 1200px;
+    margin: 0 auto;
+}
+
+.featured {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.whoswho {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.item {
+    position: relative;
+    float: left;
+}
+
+
+.wonderwoman {
+    margin-left: 20px;
+}
+
+body {
+    margin: 0px;
+    margin: 40px 0 0 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #0282F9;
+    font-size: 40px;
+}
+
+.featured {
+    margin-bottom: 50px;
+}
+
+.whoswho {
+    margin-bottom: 50px;
+}
